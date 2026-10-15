@@ -351,7 +351,7 @@ Ironie, Konjunktiv und Zitat schließen die Selbstberühmung nicht aus.
 
 ### § 30 Änderung, Ewigkeitsklausel
 
-(1) Dieses Gesetz kann mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder geändert werden, wenn mindestens die Hälfte aller Mitglieder anwesend ist. Die §§ 3a und 16a können nur mit Zustimmung aller Mitglieder geändert oder aufgehoben werden (**Einstimmigkeitsvorbehalt**). Änderungen treten mit ihrer Beschlussfassung in Kraft; § 4 Absatz 4 bleibt unberührt.
+(1) Dieses Gesetz kann mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder geändert werden, wenn mindestens die Hälfte aller Mitglieder anwesend ist. Die §§ 3a und 16a können nur mit Zustimmung aller Mitglieder geändert oder aufgehoben werden; dasselbe gilt für jede andere Änderung, die ihren Schutz verkürzt, und für diesen Satz (**Einstimmigkeitsvorbehalt**). Änderungen treten mit ihrer Beschlussfassung in Kraft; § 4 Absatz 4 bleibt unberührt.
 
 (2) Unabänderlich sind § 3 (Wohlwollensgebot), § 12 (Selbstberühmung), § 20 (Ernstfall) und dieser Absatz.
 
@@ -386,10 +386,10 @@ Kurzfassung für den Tisch. Bei Abweichungen geht der Gesetzestext vor.
 | Lacher | 2 | § 5 Abs. 1 Nr. 2 |
 | Brüller | 3 | § 5 Abs. 1 Nr. 3 |
 | Ehrenpointe | 5 | § 5 Abs. 1 Nr. 4 |
-| Vorlachen, Konfektionswitz (auf Einrede), Überlänge | je eine Stufe weniger | § 6 |
+| Vorlachen, Konfektionswitz (auf Einrede, vom Bildschirm stets), Überlänge | je eine Stufe weniger | § 6 |
 | Frotzelzuschlag je anwesendem Betroffenen | +1 | § 7 Abs. 1 |
 | Rundumschlag (mindestens drei andere Mitglieder anwesend, alle betroffen) | +2 | § 7 Abs. 2 |
-| Fallhöhenzuschlag je anwesendem Betroffenem mit Wahlamt | +1 | § 19 Abs. 2 |
+| Fallhöhenzuschlag je anwesendem Betroffenen mit Wahlamt | +1 | § 19 Abs. 2 |
 | Konter | +1 | § 8 Abs. 1 |
 | Rückbezug (selbe Sitzung / frühere Sitzung) | +1 / +2 | § 8 Abs. 2 |
 | Publikumszuschlag | +1 | § 8 Abs. 3 |
@@ -434,3 +434,75 @@ Beispiel: Ein Lacher (2) frotzelt drei der fünf anderen Mitglieder, eines davon
 **Zu § 30 Abs. 2:** Die Ewigkeitsklausel schützt sich selbst. Damit erspart sich die Runde einen Streit, den die Staatsrechtslehre zum Grundgesetz bis heute führt.
 
 **Zu § 31:** Der Gesetzgeber ist souverän genug, über sich selbst zu lachen, aber nicht souverän genug, dafür auf Punkte zu verzichten.
+
+## Anhang – Juristendeutsch für Nichtjuristen
+
+Dieser Anhang übersetzt die Fachsprache des MiPoG in Alltagsdeutsch. Er ist nicht Teil des Gesetzes; maßgeblich bleibt der Gesetzestext.
+
+### So liest man das Gesetz
+
+**Aufbau.** Das MiPoG ist in sieben Abschnitte gegliedert, die Abschnitte in Paragraphen (§). Ein Paragraph besteht aus Absätzen, die in Klammern nummeriert sind: (1), (2). Aufzählungen innerhalb eines Absatzes heißen Nummern.
+
+**Zitierweise.** Zitiert wird vom Großen ins Kleine: „§ 11 Abs. 3 Satz 2“ ist der zweite Satz im dritten Absatz von Paragraph 11; im Gesetzestext selbst wird „Absatz“ ausgeschrieben. Das Zeichen §§ steht für mehrere Paragraphen, „ff.“ für „und folgende“.
+
+**Fett gedruckt.** Fett gedruckte Begriffe sind Legaldefinitionen: Dort legt das Gesetz fest, was ein Wort bedeutet, oft in Klammern hinter der Beschreibung. Die wichtigsten Begriffe sind in § 2 gesammelt.
+
+**Anlage und Begründung.** Die Anlage fasst die Punkte für den Tisch zusammen; bei Abweichungen gilt der Gesetzestext. Die Begründung erklärt, was sich der Gesetzgeber gedacht hat. Sie bindet niemanden, hilft aber bei der Auslegung.
+
+**Abkürzungen.** Abs. Absatz · Art. Artikel · lit. Buchstabe · Nr. Nummer · BGB Bürgerliches Gesetzbuch · DSGVO Datenschutz-Grundverordnung · GG Grundgesetz · GVG Gerichtsverfassungsgesetz · GWB Gesetz gegen Wettbewerbsbeschränkungen · HGB Handelsgesetzbuch · StGB Strafgesetzbuch · StPO Strafprozessordnung · UrhG Urheberrechtsgesetz · ZPO Zivilprozessordnung
+
+### Juristenwörter von A bis Z
+
+| Begriff | Bedeutung | Im MiPoG |
+| --- | --- | --- |
+| Akzessorietät | Abhängigkeit eines Rechts von einem anderen: Fällt die Hauptsache weg, fällt die Nebensache mit. Klassiker ist die Bürgschaft, die vom Bestand der gesicherten Schuld abhängt (§ 767 BGB). Im MiPoG hängen alle Zuschläge an den Grundpunkten. | § 9 Abs. 1 |
+| Auslegung | Ermittlung, was eine Vorschrift bedeutet. Juristen fragen nach Wortlaut, Zusammenhang, Entstehungsgeschichte und Zweck. Das MiPoG stellt den Zweck an die Spitze. | § 4 Abs. 1 |
+| Befangenheit | Besorgnis, dass ein Richter nicht unparteiisch entscheidet; dann kann man ihn ablehnen (§ 42 ZPO). Selbst herbeiführen lässt sich dieser Grund grundsätzlich auch vor echten Gerichten nicht, etwa indem man den Richter beschimpft. | § 23 Abs. 5 |
+| Beistand | Person, die eine Partei in der Verhandlung begleitet und für sie spricht, ohne sie zu vertreten (§ 90 ZPO). Im MiPoG spricht er für den Urheber, der zu seinem eigenen Witz schweigen muss. | § 24 Abs. 2 |
+| Bestandskraft | Eine Entscheidung ist bestandskräftig, wenn sie sich nicht mehr angreifen lässt. Der Begriff stammt aus dem Verwaltungsrecht; bei Urteilen heißt das Gegenstück Rechtskraft. | § 25 Abs. 1, § 26 Abs. 4 |
+| Bestechung | Wer einem Richter oder Amtsträger einen Vorteil „anbietet, verspricht oder gewährt“, macht sich strafbar; ebenso, wer ihn „fordert, sich versprechen läßt oder annimmt“ (§§ 331 bis 334 StGB). Das MiPoG übernimmt diese Formeln wörtlich, nur in heutiger Rechtschreibung. | § 16 Abs. 1 |
+| Beweismittel | Alles, womit sich eine Tatsache beweisen lässt: Zeugen, Urkunden, Aufnahmen. Nicht jedes darf verwertet werden. Wer das nichtöffentlich gesprochene Wort eines anderen unbefugt aufnimmt, etwa ein Gespräch heimlich mitschneidet, macht sich sogar strafbar (§ 201 StGB). | § 24 Abs. 4, § 25 Abs. 1 |
+| Datensparsamkeit | Grundsatz des Datenschutzes: nur so viele Daten speichern wie nötig; heute heißt er Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO). Für private Runden gilt die DSGVO grundsätzlich nicht (Art. 2 Abs. 2 lit. c DSGVO), das MiPoG ist trotzdem streng. | § 26 Abs. 2 |
+| Einrede | Gegenrecht, das nur wirkt, wenn man sich darauf beruft. Bekanntestes Beispiel ist die Verjährung, die ein Gericht nicht von sich aus berücksichtigt. Ohne Einrede wird auch ein uralter Witz nicht herabgestuft, solange er nicht vom Bildschirm kommt. | § 6 Abs. 1 Nr. 2, Abs. 3 |
+| Einwilligung | Die vorherige Zustimmung (§ 183 BGB); die nachträgliche heißt Genehmigung. Wer etwas vom Tisch über die Runde hinaus weitererzählen will, braucht sie vorher, und zwar von dem, der es gesagt hat, und von allen, um die es geht. | § 3a Abs. 5, § 24 Abs. 4 |
+| Entsprechende Anwendung | Eine Regel wird auf einen ähnlichen Fall übertragen, mit den nötigen Anpassungen (Analogie). Ordnet das Gesetz das an, heißt es „gilt entsprechend“. Bei Abzügen ist sie verboten, wie im Strafrecht zulasten des Täters. | § 22 Abs. 4, § 26 Abs. 3; Verbot: § 4 Abs. 4 Satz 2 |
+| Ewigkeitsklausel | Bestimmung, die Teile einer Verfassung jeder Änderung entzieht. Vorbild ist Art. 79 Abs. 3 GG, der unter anderem die Menschenwürde und die Grundsätze von Demokratie, Rechts-, Sozial- und Bundesstaat schützt. Im MiPoG trifft es die §§ 3, 12 und 20 und die Klausel selbst. | § 30 Abs. 2 |
+| Fiktion | Das Gesetz behandelt etwas als gegeben, auch wenn es nicht stimmt; erkennbar an „gilt als“. Ein Gegenbeweis ist ausgeschlossen. Klassiker: Wer beim Erbfall schon gezeugt, aber noch nicht geboren war, gilt als vor dem Erbfall geboren (§ 1923 Abs. 2 BGB). | § 1 Abs. 4, § 2 Nr. 5, § 5 Abs. 3, § 20 Abs. 2, § 31 Abs. 1 |
+| Gemeinfrei | Frei von Urheberrechten; jeder darf es nutzen. Das gilt etwa für Werke, deren Urheber vor mehr als 70 Jahren gestorben ist, gerechnet ab Ende des Todesjahres (§§ 64, 69 UrhG). | § 3a Abs. 5 Satz 2 |
+| Gesetzblatt | Amtliches Blatt, in dem Gesetze verkündet werden; erst danach können sie gelten. Bundesgesetze erscheinen im Bundesgesetzblatt (Art. 82 GG), meist in Teil I. Daher der Titel „Tischgesetzblatt, Teil I, Nr. 1“. | Titelseite; § 29 Abs. 2, § 33 Abs. 1 Satz 3 |
+| Haftung für andere | Man muss für das Verhalten eines anderen einstehen wie für eigenes; im Vertragsrecht etwa für seine Gehilfen (§ 278 BGB). Im MiPoG trifft es den Gastgeber, wenn sein Gast Tischverrat begeht. | § 16a Abs. 2 |
+| Immunität, Indemnität | Schutzrechte von Abgeordneten (Art. 46 GG). Indemnität: Für Abstimmungen und Reden im Parlament darf ein Abgeordneter nie belangt werden, verleumderische Beleidigungen ausgenommen. Immunität: Strafverfolgung nur mit Genehmigung des Parlaments. | § 19 Abs. 1 |
+| In dubio pro reo | „Im Zweifel für den Angeklagten“: Wer nicht sicher überführt ist, wird nicht bestraft. Das MiPoG wendet den Grundsatz auf Abzüge an. Bei Punkten gilt das Gegenteil: Zweifel an der Güte eines Witzes gehen zulasten des Urhebers. | § 4 Abs. 2, 3 |
+| Inkrafttreten | Zeitpunkt, ab dem ein Gesetz gilt. Fehlt eine Regel dazu, treten Bundesgesetze am vierzehnten Tag nach Ausgabe des Bundesgesetzblatts in Kraft (Art. 82 Abs. 2 GG). Das MiPoG gilt ab dem Beschluss am Tisch. | § 33 Abs. 1 |
+| Insbesondere | Leitet Beispiele ein. Die Aufzählung ist nicht abschließend; Vergleichbares fällt auch darunter. | § 2 Nr. 3, § 21 Abs. 1, § 25 Abs. 1 |
+| Insichgeschäft | Ein Vertreter darf grundsätzlich kein Geschäft mit sich selbst schließen, etwa als Geschäftsführer einer GmbH mit sich als Privatmann, es sei denn, er ist davon befreit (§ 181 BGB). Im MiPoG bucht der Punktewart seine eigenen Punkte nie selbst; eine Befreiung gibt es nicht. | § 26 Abs. 3 |
+| Kappung | Begrenzung nach oben. Vorbild ist die Kappungsgrenze im Mietrecht: Mieterhöhungen bis zur ortsüblichen Vergleichsmiete dürfen in drei Jahren höchstens 20 Prozent betragen, in Gebieten mit Wohnungsmangel 15 Prozent (§ 558 Abs. 3 BGB). | § 9 Abs. 2 |
+| Kronzeugenregelung | Wer eine Tat aufdeckt, an der er selbst beteiligt war, kommt glimpflicher davon. Im Kartellrecht kann der erste Kronzeuge einen vollständigen Erlass der Geldbuße erhalten (§§ 81h ff. GWB), im Strafrecht eine Strafmilderung (§ 46b StGB). | § 15 Abs. 3 |
+| Legaldefinition | Begriffsbestimmung im Gesetz selbst. Steht sie in Klammern, heißt sie Klammerdefinition; berühmtes Beispiel ist „(Anspruch)“ in § 194 Abs. 1 BGB. Im MiPoG sind alle Legaldefinitionen fett gedruckt, viele davon in Klammern. | § 2 und alle fett gedruckten Begriffe |
+| Mehrheiten | Das MiPoG kennt vier Stufen: Mehrheit der anwesenden Mitglieder; Mehrheit im Schiedsgericht, bei Gleichstand entscheidet der Vorsitzende (Stichentscheid); zwei Drittel, wenn mindestens die Hälfte aller Mitglieder anwesend ist (Beschlussfähigkeit); Zustimmung aller Mitglieder (Einstimmigkeit). Auch das Grundgesetz verlangt für seine Änderung zwei Drittel (Art. 79 Abs. 2 GG). | § 17 Abs. 4, § 24 Abs. 3, § 29 Abs. 1, § 30 Abs. 1 |
+| Präambel | Feierlicher Vorspruch eines Gesetzes; er enthält keine Einzelregeln, ist rechtlich aber nicht bedeutungslos. Die des MiPoG ist der des Grundgesetzes nachgebildet: „Im Bewußtsein seiner Verantwortung vor Gott und den Menschen …“ | Präambel |
+| Rechtsfrieden | Zustand, in dem ein Streit endgültig beendet ist. Ihm zuliebe bleiben auch fehlerhafte Entscheidungen irgendwann bestehen. | § 25 Abs. 3 |
+| Rechtsweg, ordentlicher | Weg zu den staatlichen Zivil- und Strafgerichten: Amtsgericht, Landgericht, Oberlandesgericht, Bundesgerichtshof (§ 12 GVG). „Unter Ausschluss des ordentlichen Rechtswegs“ heißt: Es entscheidet allein das Schiedsgericht. | § 23 Abs. 1 |
+| Regelbeispiel | Fall, in dem eine Vorschrift „in der Regel“ greift; in besonderen Fällen kann es anders liegen. Bekannt aus dem besonders schweren Fall des Diebstahls (§ 243 StGB). | § 12 Abs. 1 |
+| Rückwirkungsverbot | Geahndet werden darf nur, was schon vor der Tat verboten war: Keine Strafe ohne Gesetz (Art. 103 Abs. 2 GG). Eine neue Abzugsregel gilt deshalb erst für spätere Taten. | § 4 Abs. 4 Satz 1, § 30 Abs. 1 Satz 3 |
+| Salvatorische Klausel | Vertragsklausel: Ist eine Bestimmung unwirksam, bleibt der Rest gültig. Ohne sie wäre nach § 139 BGB im Zweifel das ganze Geschäft nichtig. In Gesetzen ist sie unüblich. | § 32 |
+| Schiedsgericht | Privates Gericht, das die Beteiligten anstelle der staatlichen Gerichte vereinbaren (§§ 1025 ff. ZPO). Sein Spruch wirkt wie ein rechtskräftiges Urteil (§ 1055 ZPO). | §§ 23, 24 |
+| Schlüssig | Ohne Worte erklärt, aber aus dem Verhalten eindeutig; Juristen sagen auch „konkludent“. Wer nach dem eigenen Witz die Arme hochreißt, berühmt sich schlüssig selbst. | § 12 Abs. 1 |
+| Schweigen | Im deutschen Recht ist Schweigen grundsätzlich keine Zustimmung; Ausnahmen gibt es vor allem unter Kaufleuten (§ 362 HGB). Das MiPoG macht beim Wertungsruf eine solche Ausnahme. | § 22 Abs. 2 Satz 3 |
+| Soll | „Muss“ gilt ausnahmslos, „soll“ im Regelfall, „kann“ erlaubt nur. Wer sich entschuldigen soll, muss es also, wenn nicht besondere Umstände vorliegen. | § 20 Abs. 4, § 24 Abs. 3 Satz 2 |
+| Sozialadäquat | Allgemein üblich und gesellschaftlich gebilligt, deshalb erlaubt; etwa kleine Aufmerksamkeiten. | § 16 Abs. 2 |
+| Sperrklausel | Mindestanteil an Stimmen, ohne den eine Partei grundsätzlich leer ausgeht, etwa die Fünfprozenthürde bei Bundestagswahlen. Im MiPoG zählt schon ein einziger Schmunzler. | § 5 Abs. 1 Nr. 1 |
+| Tatbestand, Rechtsfolge | Jede Vorschrift hat zwei Teile: Wenn (Tatbestand), dann (Rechtsfolge). Beispiel: Wer einen Witz ankündigt und ihn bis zum Ende des Gangs schuldig bleibt (Tatbestand), verliert einen Punkt (Rechtsfolge). | § 4 Abs. 4, § 13 Abs. 4 |
+| Textform | Lesbare Erklärung, die den Erklärenden nennt, auf einem dauerhaften Datenträger, etwa eine E-Mail; eine Unterschrift ist nicht nötig (§ 126b BGB). Die Schriftform verlangt eine eigenhändige Unterschrift (§ 126 BGB). Die Serviettenform kennt nur das MiPoG. | § 26 Abs. 2, § 33 Abs. 1 |
+| Unanfechtbar | Gegen die Entscheidung gibt es kein Rechtsmittel mehr, weder Berufung noch Beschwerde. | § 24 Abs. 5 |
+| Unberührt | „Bleibt unberührt“ heißt: Die genannte Vorschrift gilt daneben weiter, die neue Regel schränkt sie nicht ein. | § 5 Abs. 4 Satz 2, § 30 Abs. 1 Satz 3 |
+| Ungebühr | Ungehöriges Benehmen in einer Gerichtsverhandlung; dafür drohen Ordnungsgeld oder Ordnungshaft (§ 178 GVG). | § 16 Abs. 3 |
+| Verfall | Ein Recht oder Vorteil fällt nachträglich weg. Im Strafrecht hieß bis 2017 so das Abschöpfen von Taterträgen, heute Einziehung. Im MiPoG verfallen Punkte etwa nach Eigenlob. | § 11 Abs. 3, § 20 Abs. 2 |
+| Verjährung | Nach Ablauf einer Frist lässt sich ein Anspruch nicht mehr durchsetzen oder eine Tat nicht mehr verfolgen; im Zivilrecht meist nach drei Jahren (§ 195 BGB). Mord verjährt nicht (§ 78 Abs. 2 StGB), Eigenlob nach dem MiPoG auch nicht. | § 12 Abs. 4 |
+| Vermutung | Annahme, die gilt, bis das Gegenteil bewiesen ist; erkennbar an „wird vermutet“. Anders als die Fiktion lässt sie sich in der Regel widerlegen, das Wohlwollen allerdings nur durch eine Ernstfallerklärung. Beispiel: Für den im Grundbuch Eingetragenen wird vermutet, dass ihm das Recht zusteht (§ 891 BGB). | § 3 Abs. 2, § 14 Abs. 1, § 18 Abs. 3, § 26 Abs. 4 |
+| Vertretenmüssen | Für etwas einstehen müssen, meist weil man es verschuldet hat (§ 276 BGB). Das eigene Mobiltelefon hat man nach dem MiPoG immer zu vertreten. | § 21 Abs. 1, 2 |
+| Verzug | Wer trotz Fälligkeit und Mahnung nicht leistet und das zu vertreten hat, ist im Verzug und muss für die Folgen einstehen (§ 286 BGB). In bestimmten Fällen ist die Mahnung entbehrlich (§ 286 Abs. 2 BGB), beim Pointenverzug immer. | § 13 Abs. 4 |
+| Vorrang | „Geht vor“ heißt: Treffen zwei Regeln aufeinander, setzt sich die genannte durch, meist die speziellere. | § 3a Abs. 5 Satz 3, § 14 Abs. 6 |
+| Vorsatz | Wissen und Wollen. Es genügt, den Erfolg für möglich zu halten und „billigend in Kauf zu nehmen“ (bedingter Vorsatz). Wer eine unfreiwillig komische Bemerkung hinterher zum Witz erklärt, hatte keinen Witzvorsatz: Nachträglicher Vorsatz zählt nicht. | § 2 Nr. 8, § 5 Abs. 6 |
+| Wiederaufnahme | Ein abgeschlossenes Verfahren wird neu aufgerollt, etwa wegen neuer Tatsachen oder Beweismittel (§ 359 Nr. 5 StPO) oder weil ein Freigesprochener glaubwürdig gesteht (§ 362 Nr. 4 StPO). | § 25 |
+| Wiedereinsetzung in den vorigen Stand | Wer eine Frist ohne eigenes Verschulden versäumt hat, darf das Versäumte nachholen, als wäre nichts gewesen (§ 233 ZPO, § 44 StPO). Im MiPoG darf ein gestörter Witz einmal neu erzählt werden. | § 21 |
