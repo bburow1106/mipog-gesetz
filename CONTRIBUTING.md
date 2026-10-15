@@ -4,7 +4,7 @@ Das Mittagspointengesetz (MiPoG) ändert nur die Tischrunde, die es sich gegeben
 
 ## Verfahren
 
-1. **Antrag.** Ein Issue „Antrag an den Gesetzgeber“ (Vorschrift, Antrag, Begründung) oder eine E-Mail an `[PLATZHALTER: Kontakt-E-Mail]`. Label „Antrag“.
+1. **Antrag.** Ein Issue „Antrag an den Gesetzgeber“ (Vorschrift, Antrag, Begründung) oder eine E-Mail an burow(at)borisburow.de. Label „Antrag“.
 2. **Entwurf.** Ein Pull Request mit der Änderung an `gesetz/mipog.md`, nach der Vorlage „Gesetzentwurf“. Label „Entwurf“. Begründung und Anhang in derselben Datei dürfen angepasst werden.
 3. **Beschluss.** Das Gesetz ändert nur die Tischrunde: mit zwei Dritteln der anwesenden Mitglieder, wenn mindestens die Hälfte aller Mitglieder anwesend ist (§ 30 Abs. 1 Satz 1). Die §§ 3a und 16a können nur einstimmig geändert werden (Satz 2); dasselbe gilt für jede Änderung, die ihren Schutz verkürzt. § 3, § 12, § 20 und § 30 Abs. 2 sind unabänderlich. Ergebnis: Label „Beschlossen“ oder „Abgelehnt“.
 4. **Verkündung.** Der Punktewart merged den Pull Request. Zugleich entstehen die neue Fassung `gesetz/fassungen/JJJJ-MM-TT.md` (identisch mit `mipog.md`) und ein Eintrag in `gesetz/chronik.yml`. Commit: „MiPoG: Fassung vom …“. Webseite und PDFs auf mipog.de werden aus diesem Repository gebaut.
