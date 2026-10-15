@@ -1,0 +1,38 @@
+name: Antrag an den Gesetzgeber
+description: Vorschlag, das Mittagspointengesetz zu ändern, zu ergänzen oder auszulegen.
+title: "Antrag: "
+labels: ["Antrag"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ein Antrag ist der erste Schritt des Gesetzgebungsverfahrens (siehe CONTRIBUTING.md). Beschließen kann nur die Tischrunde (§ 30 MiPoG). Alles hier ist öffentlich.
+  - type: input
+    id: vorschrift
+    attributes:
+      label: Vorschrift
+      description: Welche Vorschrift soll geändert werden, oder wo soll eine neue stehen?
+      placeholder: "§ 7 Abs. 2"
+    validations:
+      required: true
+  - type: textarea
+    id: antrag
+    attributes:
+      label: Antrag
+      description: Der vorgeschlagene Wortlaut oder die gewünschte Änderung.
+    validations:
+      required: true
+  - type: textarea
+    id: begruendung
+    attributes:
+      label: Begründung
+      description: Warum die Änderung dem Gesetz dient (§ 1 Abs. 1).
+    validations:
+      required: true
+  - type: checkboxes
+    id: tischgeheimnis
+    attributes:
+      label: Tischgeheimnis
+      options:
+        - label: Keine Namen, nichts vom Tisch (§ 3a MiPoG). Der Antrag nennt keine Mitglieder und gibt nichts wieder, was bei einem Treffen gesagt wurde.
+          required: true

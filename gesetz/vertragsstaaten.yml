@@ -1,0 +1,9 @@
+# Vertragsstaaten des Mittagspointengesetzes
+#
+# Tische, die das MiPoG für sich übernommen haben (Rezeption).
+# Nur Name des Tisches, Ort und Datum des Beschlusses nach § 33 Abs. 1. Keine Personen (§ 3a, § 26 Abs. 2 MiPoG).
+
+- name: "[PLATZHALTER: Name der Ursprungsrunde]"
+  ort: "[PLATZHALTER: Ort]"
+  beitritt: null          # Datum des Beschlusses, sobald er gefasst ist
+  ursprung: true          # die Tischrunde, die sich das Gesetz gegeben hat

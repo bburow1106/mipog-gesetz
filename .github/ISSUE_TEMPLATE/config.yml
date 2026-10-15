@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Antrag oder Beitritt per E-Mail
+    url: "mailto:[PLATZHALTER: Kontakt-E-Mail]"
+    about: Wer kein GitHub-Konto hat, schreibt an diese Adresse. Keine Namen, nichts vom Tisch (§ 3a MiPoG).

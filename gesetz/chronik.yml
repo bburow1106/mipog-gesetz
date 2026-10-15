@@ -1,0 +1,63 @@
+# Gesetzgebungschronik des Mittagspointengesetzes (MiPoG)
+#
+# Jeder Eintrag: datum (JJJJ-MM-TT, null wenn offen), titel, text.
+# Optional: fassung (Datei unter gesetz/fassungen/), vorschriften (geänderte Vorschriften).
+# Keine Namen von Mitgliedern, nichts Wörtliches vom Tisch (§ 3a MiPoG).
+
+eintraege:
+  - datum: 2026-10-02
+    titel: Erstfassung
+    fassung: 2026-10-02.md
+    text: >-
+      Die Regeln, die am Tisch nach und nach erfunden wurden, werden in Gesetzesform gebracht:
+      33 Paragraphen in sieben Abschnitten, eine Punktetabelle als Anlage und eine Begründung.
+      Kernstücke sind Punkte für Pointen und wohlwollende Frotzeleien, Punktabzug für Eigenlob
+      und ein Schiedsgericht aus den unbeteiligten Mitgliedern.
+
+  - datum: 2026-10-14
+    titel: Tischgeheimnis und Geltung für alle Treffen
+    fassung: 2026-10-14.md
+    vorschriften: ["§ 1", "§ 2", "§ 3a (neu)", "§ 5", "§ 14", "§ 16a (neu)", "§ 18", "§ 19", "§ 22", "§ 26", "§ 27", "§ 28", "§ 29", "§ 30", "Anlage", "Begründung"]
+    text: >-
+      Das Gesetz gilt für jedes Treffen, auch für Abendessen (Mittagsfiktion, § 1 Abs. 4).
+      Neu sind das Tischgeheimnis (§ 3a) und der Tischverrat (§ 16a). Die Gürtellinie (§ 14)
+      wurde neu gefasst: Am Tisch gilt ein großzügiger Maßstab, über Abwesende darf es derber
+      werden, solange es nicht böse gemeint ist. Für Treffen ohne Essen kamen Ersatzgang und
+      Trockenregel hinzu, dazu mehrere Klarstellungen.
+
+  - datum: 2026-10-14
+    titel: Rundumschlag geschärft
+    fassung: 2026-10-14.md
+    vorschriften: ["§ 7", "Anlage", "Begründung"]
+    text: >-
+      § 7 Abs. 2 verlangte zugleich „sämtliche“ anderen Mitglieder und „mindestens drei“.
+      Die Neufassung trennt beides: Außer dem Urheber müssen mindestens drei Mitglieder anwesend
+      sein, und alle müssen betroffen sein. Eine Frotzelei gegen eine Gruppe trifft jeden,
+      der erkennbar dazugehört.
+
+  - datum: 2026-10-15
+    titel: Selbstschutz des Tischgeheimnisses, Anhang für Nichtjuristen
+    fassung: 2026-10-15.md
+    vorschriften: ["§ 30", "Anlage", "Anhang (neu)"]
+    text: >-
+      Eine Prüfung aller Verweise fand eine Lücke: Mit zwei Dritteln hätte man erst den
+      Einstimmigkeitsvorbehalt streichen und danach das Tischgeheimnis ändern können.
+      § 30 Abs. 1 Satz 2 schützt sich jetzt selbst. Neu ist der Anhang „Juristendeutsch für
+      Nichtjuristen“ mit 51 Begriffen; die Zitate echter Gesetze darin wurden einzeln geprüft.
+
+  - datum: 2026-10-15
+    titel: Textausgabe in Druck
+    text: >-
+      Die Textausgabe geht als Softcover im Format 13 × 19 cm in Druck, mit Punktetabelle,
+      Begründung, Anhang und Spieltagsbögen zum Eintragen.
+
+  - datum: 2026-10-15
+    titel: mipog.de
+    text: Die Domain wird registriert.
+
+  - datum: null
+    titel: Beschluss durch die Tischrunde
+    text: >-
+      Das Gesetz tritt in Kraft, sobald es bei einem gemeinsamen Mittagessen von mindestens
+      drei Mitgliedern mit der Mehrheit der anwesenden Mitglieder beschlossen ist
+      (§ 33 Abs. 1). Das Datum wird nachgetragen.

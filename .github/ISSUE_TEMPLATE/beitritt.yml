@@ -1,0 +1,38 @@
+name: Beitrittserklärung
+description: Ein Tisch hat das Mittagspointengesetz nach § 33 Abs. 1 übernommen und möchte in die Liste der Vertragsstaaten.
+title: "Beitritt: "
+labels: ["Beitritt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        In die Liste kommen nur Name des Tisches, Ort und Datum des Beschlusses (§ 26 Abs. 2 MiPoG). Keine Personen.
+  - type: input
+    id: tisch
+    attributes:
+      label: Name des Tisches
+      placeholder: "Stammtisch Donnerstag"
+    validations:
+      required: true
+  - type: input
+    id: ort
+    attributes:
+      label: Ort
+      placeholder: "Musterstadt"
+    validations:
+      required: true
+  - type: input
+    id: datum
+    attributes:
+      label: Datum des Beschlusses
+      description: Tag des gemeinsamen Mittagessens, bei dem das Gesetz beschlossen wurde (§ 33 Abs. 1).
+      placeholder: "JJJJ-MM-TT"
+    validations:
+      required: true
+  - type: checkboxes
+    id: personen
+    attributes:
+      label: Keine Personen
+      options:
+        - label: Die Erklärung nennt keine Mitglieder und keine Gäste.
+          required: true
