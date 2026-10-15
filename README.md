@@ -9,5 +9,3 @@ Gesetz über Pointen und wohlwollende Frotzeleien am Mittagstisch, das sich eine
 - Webseite mit Volltext, Punkterechner und Punktewart-App: <https://mipog.de>
 
 Tischgeheimnis (§ 3a MiPoG): Hier stehen keine Namen von Mitgliedern und nichts, was am Tisch gesagt wurde.
-
-Lizenz für den Text: [PLATZHALTER: Lizenz]
